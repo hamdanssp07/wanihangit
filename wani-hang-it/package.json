@@ -1,6 +1,6 @@
 {
   "name": "wani-hang-it",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -20,7 +20,10 @@
     "react": "^18",
     "react-dom": "^18",
     "readline-sync": "^1.4.10",
-    "telebot": "^1.4.1"
+    "telebot": "^1.4.1",
+    "tiktok-src": "^1.0.1",
+    "undici": "^6.7.0",
+    "undicipie": "^1.0.0"
   },
   "devDependencies": {
     "@types/node": "^20",
